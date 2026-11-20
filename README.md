@@ -10,7 +10,8 @@ This project compares four supervised classification methods (k-NN, decision tre
 ### How to run the project
 - Clone the project on your machine
 - Verify that all data files are in the data folder, the `sentiment_train.csv` is missing from the repo. as it was too large to upload.
-- Run all cells in the three main notebooks of the project:
+- Run all cells in the three main notebooks of the project as well as the tuning notebook:
     - `01_data_setup.ipynb`
     - `02_supervised_models.ipynb`
     - `03_clustering.ipynb`
+    - `nn_tuning_v3.ipynb`
