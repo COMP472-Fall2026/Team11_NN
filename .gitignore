@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignore the results directory
+results/
+
+# Ignore the data directory
+data/
+
+# Ignore the python cache
+__pycache__/
+*.pyc
+*.pyd
+
+# Ignore pachage-json files
+package-lock.json
